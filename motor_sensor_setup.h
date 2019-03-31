@@ -10,6 +10,7 @@ void claw(int power) {
 }
 void loader() {
 	return digitalRead(2);
+}
 void down() {
 	return digitalRead(3);
 }
